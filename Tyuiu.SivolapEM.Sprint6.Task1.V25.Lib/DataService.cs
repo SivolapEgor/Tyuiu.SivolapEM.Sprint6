@@ -2,7 +2,7 @@
 
 namespace Tyuiu.SivolapEM.Sprint6.Task1.V25.Lib
 {
-    public class DataService
+    public class DataService: ISprint6Task1V25
     {
         public double[] GetMassFunction(int startValue, int stopValue)
         {
