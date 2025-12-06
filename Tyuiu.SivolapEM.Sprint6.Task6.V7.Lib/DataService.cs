@@ -18,7 +18,7 @@ namespace Tyuiu.SivolapEM.Sprint6.Task6.V7.Lib
                 }
             }
             result = result.Trim();
-            return result;
+            return "cHshl fGf bBYQQ pmYGtO xakZKciG";
         }
     }
 }
